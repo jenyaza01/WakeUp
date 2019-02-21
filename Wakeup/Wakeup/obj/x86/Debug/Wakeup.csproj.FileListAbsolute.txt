@@ -1,0 +1,16 @@
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\bin\x86\Debug\Wakeup.exe.config
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\bin\x86\Debug\Wakeup.exe
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\bin\x86\Debug\Wakeup.pdb
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\x86\Debug\Wakeup.Form1.resources
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\x86\Debug\Wakeup.Properties.Resources.resources
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\x86\Debug\Wakeup.csproj.GenerateResource.Cache
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\x86\Debug\Wakeup.exe
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\x86\Debug\Wakeup.pdb
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\bin\x86\Debug\Wakeup.exe.config
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\x86\Debug\Wakeup.exe
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\x86\Debug\Wakeup.pdb
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\bin\x86\Debug\Wakeup.exe
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\bin\x86\Debug\Wakeup.pdb
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\x86\Debug\Wakeup.Form1.resources
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\x86\Debug\Wakeup.Properties.Resources.resources
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\x86\Debug\Wakeup.csproj.GenerateResource.Cache

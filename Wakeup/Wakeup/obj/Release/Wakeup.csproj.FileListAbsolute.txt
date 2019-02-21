@@ -1,0 +1,14 @@
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\bin\Release\Wakeup.exe.config
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\bin\Release\Wakeup.exe
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\Release\Wakeup.Form1.resources
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\Release\Wakeup.Properties.Resources.resources
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\Release\Wakeup.csproj.GenerateResource.Cache
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\Release\Wakeup.exe
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Wakeup\Wakeup\obj\Release\Wakeup.csprojResolveAssemblyReference.cache
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\Release\Wakeup.csprojResolveAssemblyReference.cache
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\Release\Wakeup.Form1.resources
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\Release\Wakeup.Properties.Resources.resources
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\Release\Wakeup.csproj.GenerateResource.Cache
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\obj\Release\Wakeup.exe
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\bin\Release\Wakeup.exe.config
+C:\Users\Jenyaza\Documents\Visual Studio 2012\Projects\Private\Wakeup\Wakeup\bin\Release\Wakeup.exe
